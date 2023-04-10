@@ -5,4 +5,4 @@ You can follow the following steps to get this build:
 npm install -g eas-cli
 eas login
 eas build:configure
-eas build --platform android
+eas build --platform android.
